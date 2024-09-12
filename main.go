@@ -407,7 +407,6 @@ func gen(proxies []string, promoTarget *int32, resultsChan chan struct{}, wg *sy
 				invalids++
 			}
 
-			randomName := generateName()
 			creating := Yellow("[Creating Promo]")
 			arrow := Magenta("----->")
 			uuidColor := Yellow(uuidstrShort)
@@ -420,7 +419,6 @@ func gen(proxies []string, promoTarget *int32, resultsChan chan struct{}, wg *sy
 			createdPromo := fmt.Sprintf("[%s] %s %s %s%s", time.Now().Format("15:04:05"), generated, arrow, linkColor, codeValueColor)
 			fmt.Println(createdPromo)
 			appendToFile("results/promos.txt", fmt.Sprintf("https://promos.discord.gg/%s\n", codeValue))
-			appendToFile("results/names.txt", randomName)
 
 			atomic.AddInt32(promoTarget, -1)
 
