@@ -6,6 +6,7 @@ Discord 1 month promo generator
 * Install Golang (https://go.dev/doc/install)
 * In **config.json** set your proxy file, threads, promo number, etc.
 * Open CMD in the same dir as the main.go file and type **go run main.go**
+* Proxy format **http://username:password@ip:port**
 
 # Features
 
