@@ -1,0 +1,7 @@
+{
+    "use_proxies": true,
+    "proxy_file": "proxies.txt",
+    "thread_count": 1,
+    "retry_count": 1,
+    "promo_count": 1
+  }
