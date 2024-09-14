@@ -3,7 +3,7 @@ Discord 1 month promo generator
 Discord Promo Checker
 
 # Preview 
-![alt text](https://i.postimg.cc/x822w5SZ/image.png)
+![screenshot]([screenshot.png](https://i.postimg.cc/x822w5SZ/image.png))
 ![alt text](https://i.postimg.cc/vHSn52wM/image.png)
 ![alt text](https://i.postimg.cc/D00rK93j/image.png)
 
