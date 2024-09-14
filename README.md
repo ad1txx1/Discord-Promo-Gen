@@ -1,5 +1,6 @@
-# Discord-Promo-Gen
+# Discord Promo Gen & Checker
 Discord 1 month promo generator
+Discord Promo Checker
 
 # Usage
 
