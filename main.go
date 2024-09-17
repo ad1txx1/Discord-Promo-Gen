@@ -227,7 +227,6 @@ func getUuid(proxies []string) string {
 		"accept-language":           "en-US,en;q=0.9",
 		"cache-control":             "max-age=0",
 		"priority":                  "u=0, i",
-		"referer":                   "https://www.chess.com/friends?name=csolver.xyz",
 		"sec-ch-ua":                 `"Chromium";v="128", "Not;A=Brand";v="24", "Microsoft Edge";v="128"`,
 		"sec-ch-ua-mobile":          "?0",
 		"sec-ch-ua-platform":        `"Windows"`,
