@@ -27,3 +27,5 @@ https://i.postimg.cc/D00rK93j/image.png
 * Telegram Channels - **t.me/hotwhalechecker** | **t.me/knzstock**
 
 ## Please star 
+
+# ! NOTE ! This is most likely patched by now. Use the code to learn from it, ofcourse for educational purposes
